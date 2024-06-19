@@ -1,12 +1,12 @@
 const sectors = [
-  { color: "#FFBC03", text: "#333333", label: "Sweets" },
-  { color: "#FF5A10", text: "#333333", label: "Prize draw" },
-  { color: "#FFBC03", text: "#333333", label: "Sweets" },
-  { color: "#FF5A10", text: "#333333", label: "Prize draw" },
-  { color: "#FFBC03", text: "#333333", label: "Sweets + Prize draw" },
-  { color: "#FF5A10", text: "#333333", label: "You lose" },
-  { color: "#FFBC03", text: "#333333", label: "Prize draw" },
-  { color: "#FF5A10", text: "#333333", label: "Sweets" },
+  { color: "#FFBC03", text: "#333333", label: "Movie Marathon" },
+  { color: "#FF5A10", text: "#333333", label: "Indoor Entertainment" },
+  { color: "#FFBC03", text: "#333333", label: "Mall Meandering" },
+  { color: "#FF5A10", text: "#333333", label: "Cool Treats and Cafes" },
+  { color: "#FFBC03", text: "#333333", label: "Street food Hopping" },
+  { color: "#FF5A10", text: "#333333", label: "Rooftop Romance" },
+  { color: "#FFBC03", text: "#333333", label: "Shopper's Paradise" },
+  { color: "#FF5A10", text: "#333333", label: "Your Wish is my Command" },
 ];
 
 const events = {
